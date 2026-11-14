@@ -1,0 +1,12 @@
+[sweep]      69.5 s
+[scaling]   199.0 s
+[ablation]  251.1 s
+[shots]     260.4 s
+backflow_x_haar      spearman +0.12  contrast    0.79  auc 0.16
+plateau_x_haar       spearman +0.14  contrast    0.83  auc 0.32
+backflow_x_product   spearman -0.53  contrast    1.40  auc 1.00
+plateau_x_product    spearman -0.50  contrast   16.93  auc 1.00
+backflow_z_product   spearman -0.36  contrast    1.09  auc 0.48
+plateau_z_product    spearman -0.33  contrast    1.11  auc 0.56
+otoc_late            spearman -0.67  contrast    3.61  auc 1.00
+done in 281.0 s on cuda

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Does a probe qubit's information backflow diagnose many-body quantum chaos? An exact study on mixed-field Ising environments"
+type: software
+authors:
+  - family-names: Chenchupradeep
+    given-names: Degala
+version: 1.0.0
+date-released: 2026-11-14
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/probe-qubit-backflow-vs-chaos-ising-environment"
+abstract: >-
+  Exact simulation study of a pure-dephasing probe qubit coupled to a 6-12 spin
+  mixed-field Ising chain. It tests whether Breuer-Laine-Piilo information backflow
+  tracks the integrable-to-chaotic crossover, and compares it with the late-time
+  coherence plateau, an out-of-time-order correlator and level-spacing statistics
+  under shot noise and extra probe dephasing.
+keywords:
+  - quantum chaos
+  - open quantum systems
+  - non-Markovianity
+  - Loschmidt echo
+  - out-of-time-order correlator
